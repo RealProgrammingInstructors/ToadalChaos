@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Indicate that all .pde files are Processing code
+*.pde text
