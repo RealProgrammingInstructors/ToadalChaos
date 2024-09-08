@@ -28,7 +28,7 @@ Learning goals should be understood by students at the end of the classes
 * Code separation (Increase readability with strategic files)
 * Factory Design Pattern 
 
-![merged.gif](data/Gameplay/merged.gif)
+![frenchfly.png](data/Wasp/wasp0.png)
 
 ## Objected Oriented Programming
 * Inheritance
@@ -38,7 +38,7 @@ Learning goals should be understood by students at the end of the classes
 * Interfaces
 * Dot notation
 
-![frenchfly.png](data/Powerups/frenchfly.png)
+![frenchfly.png](data/Powerups/turtleshell.png)
 
 ## Math
 * Vector (From A to B)
