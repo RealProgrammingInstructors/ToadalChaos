@@ -66,6 +66,7 @@ for instance, want to make the frog rainbow or add new characters?
 | 8    | Factory Upgrades                           | Add more upgrades and make them functional           |
 | 9    | End Game                                   | Try making upgrades destroy when hit                 |
 | 10   | [Flexible] Wasps (Student Led)             |                                                      |
+| 11   | [Flexible] Powerup Enhancemnets (Student Led)             |                                                      |
 
 ![tadpole.png](data/Powerups/tadpole.png)
 
