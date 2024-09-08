@@ -11,7 +11,7 @@ Furthermore, Toadal Chaos teaches more advanced object-oriented concepts such as
 
 Any student who succeeds in Toadal Chaos will thrive in high school coding.
 
-![frogidle0.png](data/Frog/frogidle0.png)
+![toad.gif](toad.gif)
 
 # Learning Goals
 
@@ -47,7 +47,7 @@ Learning goals should be understood by students at the end of the classes
 * AABB Collision (Box collision)
 * Matrices (Concept only, shortcuts used)
 
-![obeliskidle0.png](data/Obelisk/obeliskidle0.png)
+![Obelisk.gif](Obelisk.gif)
 
 # Course Outline
 This course is broken down into 10 lessons. Each lesson should be completed in the span of one class, however, depending on student pacing,
