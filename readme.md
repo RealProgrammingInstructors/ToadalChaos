@@ -1,5 +1,3 @@
-# TODO:
-
 ![cover.jpg](data/Backgrounds/cover.jpg)
 
 # Toadal Chaos
