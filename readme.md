@@ -91,7 +91,7 @@ Please ensure that the student has the template installed and to keep GitHub des
 
 # Links
 
-[Play the Game]()
+[Play the Game](https://flamingoezpz.github.io/Projects/Java/ToadalChaos/ToadalChaos.html)
 
 [Download if Link isn't working](https://drive.google.com/file/d/1ku3LWTmviG4ft8kdRMSf2sQD9CFurjIQ/view?usp=drive_link)
 
