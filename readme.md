@@ -50,7 +50,7 @@ Learning goals should be understood by students at the end of the classes
 ![Obelisk.gif](Obelisk.gif)
 
 # Course Outline
-This course is broken down into 10 lessons. Each lesson should be completed in the span of one class, however, depending on student pacing,
+This course is broken down into 11 lessons. Each lesson should be completed in the span of one class, however, depending on student pacing,
 a lesson can be two weeks long. Students who finish early can customize the game however they’d like with the instructor's help, 
 for instance, want to make the frog rainbow or add new characters?
 
