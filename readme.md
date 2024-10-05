@@ -54,7 +54,7 @@ This course is broken down into 11 lessons. Each lesson should be completed in t
 a lesson can be two weeks long. Students who finish early can customize the game however they’d like with the instructor's help, 
 for instance, want to make the frog rainbow or add new characters?
 
-| Week | Topic                                      | Suggested Homework                                   |
+| Lesson | Topic                                      | Suggested Homework                                   |
 |------|--------------------------------------------|------------------------------------------------------|
 | 1    | Movement                                   |                                                      |
 | 2    | GameObjects                                | Think about what could be cool to add                |
